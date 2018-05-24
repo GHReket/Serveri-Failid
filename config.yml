@@ -1,9 +1,9 @@
   # Prefix of all death messages
-  prefix: "&e&lP&6&lv&e&lP "
+  prefix: ""
   # Suffix of all death messages
   suffix: ""
   # If you want a prefix / suffix only for PVP messages, uncomment these:
-  # prefix-pvp: "&e&lP&6&lv&e&lP "
+  # prefix-pvp: ""
   # suffix-pvp: ""
   mob:
     Bat:
@@ -11,17 +11,17 @@
     BlazeMelee:
       - "&c%plrtag% &7tapeti &eBlazi &7poolt"
     BlazeFireball:
-      - "&c%plrtag% &7rünnati tulepallidega &eBlazi &7poolt"
+      - "&c%plrtag% &7rÃ¼nnati tulepallidega &eBlazi &7poolt"
     CaveSpider:
-      - "&c%plrtag% &7rünnati &e&lKoopa Ämbliku &7poolt"
+      - "&c%plrtag% &7rÃ¼nnati &e&lKoopa Ã„mbliku &7poolt"
     Chicken:
-      - "&c%plrtag% &7rünnati &eKana &7poolt"
+      - "&c%plrtag% &7rÃ¼nnati &eKana &7poolt"
     Cow:
-      - "&c%plrtag% &7rünnati &eLehma &7poolt"
+      - "&c%plrtag% &7rÃ¼nnati &eLehma &7poolt"
     Creeper:
-      - "&c%plrtag% &7lasti õhku &eCreeperi &7poolt"
+      - "&c%plrtag% &7lasti Ãµhku &eCreeperi &7poolt"
     Donkey:
-      - "&c%plrtag% &7rünnati &eEesli &7poolt"
+      - "&c%plrtag% &7rÃ¼nnati &eEesli &7poolt"
     ElderGuardian:
       - "&c%plrtag% &7tapeti &eElder Guardiani &7poolt"
     EnderDragon:
@@ -29,13 +29,13 @@
     EnderDragonBreath:
       - "%plrtag% was roasted in dragon breath"
     Enderman:
-      - "&c%plrtag% &7rünnati &eEndermani &7poolt"
+      - "&c%plrtag% &7rÃ¼nnati &eEndermani &7poolt"
     Endermite:
       - "&c%plrtag% &7tapeti &eEndermitei &7poolt"
     Evoker:
       - "&c%plrtag% &7tapeti &eEvokeri &7poolt"
     Ghast:
-      - "&c%plrtag% &7rünnati tulepallidega &eGhasti &7poolt"
+      - "&c%plrtag% &7rÃ¼nnati tulepallidega &eGhasti &7poolt"
     Giant:
       - "&c%plrtag% &7tapeti &eGianti &7poolt"
     Guardian:
@@ -63,7 +63,7 @@
     Pig:
       - "&c%plrtag% &7tapeti &eSea &7poolt"
     PolarBear:
-      - "&c%plrtag% &7tapeti &eJääkaru &7poolt"
+      - "&c%plrtag% &7tapeti &eJÃ¤Ã¤karu &7poolt"
     Rabbit:
       - "&c%plrtag% was slain by Rabbit"
     Sheep:
@@ -278,7 +278,7 @@
     FallingBlock: # Only when a FallingBlock is modified to cause damage
       - "%plrtag% was squashed by a falling block"
     UnknownArrow: # arrow from unknown entity or source, /summon?
-      - "&c%plrtag% &7rünnati &enoolega"
+      - "&c%plrtag% &7rÃ¼nnati &enoolega"
     DispenserArrow:
       - "%plrtag% was shot by arrow"
     DispenserFireball:
@@ -304,11 +304,11 @@
     FireTickKill:
       - "%plrtag% burnt into a crisp whilst fighting %killer%"
     Magma:
-      - "&c%plrtag% &7avastas, et põrand on &eLaava"
+      - "&c%plrtag% &7avastas, et pÃµrand on &eLaava"
     MagmaKill:
       - "%plrtag% walked into danger zone due to %killer%"
     Lava:
-      - "&c%plrtag% &7üritas ujuda &eLaavas"
+      - "&c%plrtag% &7Ã¼ritas ujuda &eLaavas"
     LavaKill:
       - "%plrtag% tried to swim in lava while trying to escape %killer%"
     Lightning: # Happens when struck by lightning, vanilla: FireTick/FireBlock
@@ -358,9 +358,9 @@
     Firework:
       - "%plrtag% went off with a bang"
     Elytra:
-      - "%plrtag% experienced kinetic energy"
+      - "%plrtag% &clendamise jÃµud sai otsa ning ta kukkus alla&8."
     Suicide: # Some plugins may use this one, /suicide and /kill for example
-      - "%plrtag% died"
+      - "%plrtag% &csooritas enesetapu&8."
     Melting: # Some plugins may use this one, orig. Snowmans + hot biomes
       - "%plrtag% died"
     Custom: # Some plugins may use this one
