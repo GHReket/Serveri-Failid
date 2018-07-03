@@ -1,2 +1,2 @@
-JoinMessage: '&8[&f✦&8] &f{player_displayname} &fliitus serveriga.'
-QuitMessage: '&8[&f✦&8] &f{player_displayname} &flahkus serverist.'
+JoinMessage: '&8[&f✦&8] &7{player_displayname} &fliitus serveriga.'
+QuitMessage: '&8[&f✦&8] &7{player_displayname} &flahkus serverist.'
